@@ -1,6 +1,6 @@
 # ImplicitAD.jl
 
-![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)<!--
+![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)
 [![build](https://github.com/tpapp/ImplicitAD.jl/workflows/CI/badge.svg)](https://github.com/tpapp/ImplicitAD.jl/actions?query=workflow%3ACI)
 [![codecov.io](http://codecov.io/github/tpapp/ImplicitAD.jl/coverage.svg?branch=master)](http://codecov.io/github/tpapp/ImplicitAD.jl?branch=master)
 
