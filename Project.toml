@@ -1,0 +1,9 @@
+name = "ImplicitAD"
+
+[deps]
+AbstractDifferentiation = "c29ec348-61ec-40c8-8164-b8c60e9d9f3d"
+ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
+ChainRulesCore = "d360d2e6-b24c-11e9-a2a3-2a2ae2dbcce4"
+ChainRulesTestUtils = "cdddcdb0-9152-4a09-a978-84456f9df70a"
+FiniteDifferences = "26cc04aa-876d-5657-8c51-4c34ba976000"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
