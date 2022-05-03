@@ -1,6 +1,6 @@
 module ImplicitAD
 
-using AbstractDifferentiation, ChainRulesCore, Roots, ArgCheck
+using ChainRulesCore, Roots, ArgCheck
 
 export one_one_core, one_one
 
