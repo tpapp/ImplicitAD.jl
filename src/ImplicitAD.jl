@@ -5,7 +5,7 @@ using ChainRulesCore, Roots, ArgCheck
 export one_one_core, one_one
 
 "Default tolerance."
-const ATOL = √eps()
+const ATOL = eps()^0.7
 
 ####
 #### α ↦ β, defined implicitly by exp(β) + exp(6β) = α
